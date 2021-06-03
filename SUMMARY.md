@@ -1,4 +1,4 @@
-Table of contents
+# Table of contents
 
 * [README](README.md)
 * [java基础](java-ji-chu/README.md)
@@ -25,7 +25,7 @@ Table of contents
   * [03-面向对象](java-ji-chu/03-mian-xiang-dui-xiang/README.md)
     * [目录](java-ji-chu/03-mian-xiang-dui-xiang/mu-lu.md)
     * [01-面向对象思想](java-ji-chu/03-mian-xiang-dui-xiang/01-mian-xiang-dui-xiang-si-xiang.md)
-  * [04-重要关键字](java-ji-chu/04-zhong-yao-guan-jian-zi/README.md)
+  * [04-重要关键字](java-ji-chu/04-zhong-yao-guan-jian-zi.md)
   * [05-集合框架](java-ji-chu/05-ji-he-kuang-jia/README.md)
     * [目录](java-ji-chu/05-ji-he-kuang-jia/mu-lu.md)
   * [06-线程通信](java-ji-chu/06-xian-cheng-tong-xin/README.md)
