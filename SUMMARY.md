@@ -2,9 +2,7 @@
 
 * [README](README.md)
 * [java基础](java-ji-chu/README.md)
-  * [目录](java-ji-chu/mu-lu.md)
   * [01-基本语法](java-ji-chu/01-ji-ben-yu-fa/README.md)
-    * [目录](java-ji-chu/01-ji-ben-yu-fa/mu-lu.md)
     * [01-标识符和关键字](java-ji-chu/01-ji-ben-yu-fa/01-biao-shi-fu-he-guan-jian-zi.md)
     * [02-常量与变量](java-ji-chu/01-ji-ben-yu-fa/02-chang-liang-yu-bian-liang.md)
     * [03-基本数据类型](java-ji-chu/01-ji-ben-yu-fa/03-ji-ben-shu-ju-lei-xing.md)
@@ -12,7 +10,6 @@
     * [05-流程控制](java-ji-chu/01-ji-ben-yu-fa/05-liu-cheng-kong-zhi.md)
     * [06-注释和分隔符](java-ji-chu/01-ji-ben-yu-fa/06-zhu-shi-he-fen-ge-fu.md)
   * [02-数据结构](java-ji-chu/02-shu-ju-jie-gou/README.md)
-    * [目录](java-ji-chu/02-shu-ju-jie-gou/mu-lu.md)
     * [01-数组](java-ji-chu/02-shu-ju-jie-gou/01-shu-zu.md)
     * [02-链表](java-ji-chu/02-shu-ju-jie-gou/02-lian-biao.md)
     * [03-跳表](java-ji-chu/02-shu-ju-jie-gou/03-tiao-biao.md)
