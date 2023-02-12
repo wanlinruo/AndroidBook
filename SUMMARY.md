@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [computer-based](computer-based/README.md)
+* [计算机基础](computer-based/README.md)
   * [01-数据结构](computer-based/01-data-structure/README.md)
     * [01-数组](computer-based/01-data-structure/file/01-array.md)
     * [02-链表](computer-based/01-data-structure/file/02-link.md)
