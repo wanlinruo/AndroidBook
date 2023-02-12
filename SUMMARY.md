@@ -11,6 +11,9 @@
     * [06-散列表](computer-based/01-data-structure/file/06-hash.md)
     * [07-树](computer-based/01-data-structure/file/07-tree.md)
     * [08-图](computer-based/01-data-structure/file/08-tu.md)
+  * [02-计算机组成原理](computer-based/02-computer-composing-principles/README.md)
+  * [03-操作系统](computer-based/03-operating-system/README.md)
+  * [04-计算机网络](computer-based/04-computer-network/README.md)
 * [java](java/README.md)
   * [java基础](java/junior/README.md)
     * [01-基本语法](java/junior/01-syntax/README.md)
@@ -47,4 +50,5 @@
   * [android基础](android/junior/README.md)
   * [android进阶](android/middle/README.md)
   * [android高级](android/senior/README.md)
+    * [01-开源库源码分析](android/senior/01-code-analysis/README.md)
 
