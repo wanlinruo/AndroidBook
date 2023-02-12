@@ -48,9 +48,9 @@ dataType\[arraySize\] ：决定了向JVM申请的内存空间的大小。 （大
 
 arraySize：只要是一个合法的java 表达式就可以。 返回一个int 类型的值即可
 
-![&#x6570;&#x7EC4;&#x683C;&#x5F0F;&#x4F8B;&#x5B50;](../../.gitbook/assets/数组格式例子.png)
+![&#x6570;&#x7EC4;&#x683C;&#x5F0F;&#x4F8B;&#x5B50;](../../../.gitbook/assets/数组格式例子.png)
 
-![&#x6570;&#x7EC4;&#x58F0;&#x660E;&#x5206;&#x914D;&#x8D4B;&#x503C;&#x8FC7;&#x7A0B;](../../.gitbook/assets/数组声明分配赋值过程.png)
+![&#x6570;&#x7EC4;&#x58F0;&#x660E;&#x5206;&#x914D;&#x8D4B;&#x503C;&#x8FC7;&#x7A0B;](../../../.gitbook/assets/数组声明分配赋值过程.png)
 
 ## 数组常见问题：
 
