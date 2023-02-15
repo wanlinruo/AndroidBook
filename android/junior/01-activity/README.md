@@ -25,12 +25,10 @@ Activity 是 Android 系统的核心组件（系统的核心组件是由系统�
 > 此功能用于隐式请求启动 Activity
 
 ```java
-/**
-在此示例中，action 元素指定该 Activity 会发送数据。
-将 category 元素声明为 DEFAULT 可使 Activity 能够接收启动请求。
-data 元素指定此 Activity 可以发送的数据类型
-**/
-		<activity android:name=".ExampleActivity" android:icon="@drawable/app_icon">
+// 在此示例中，action 元素指定该 Activity 会发送数据。
+// 将 category 元素声明为 DEFAULT 可使 Activity 能够接收启动请求。
+// data 元素指定此 Activity 可以发送的数据类型
+    <activity android:name=".ExampleActivity" android:icon="@drawable/app_icon">
         <intent-filter>
             <action android:name="android.intent.action.SEND" />
             <category android:name="android.intent.category.DEFAULT" />
